@@ -277,7 +277,7 @@ video{
 #footer h4{
     padding: 10px;
 }
-@media screen and (max-width:400px){
+@media only screen and (max-width: 600px){
     nav{
         margin: 0;
         padding: 0;
@@ -435,3 +435,4 @@ video{
         width: 355px;
         height: 245px;
     }
+}    
